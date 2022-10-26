@@ -14,7 +14,7 @@
 
 import Atomics
 import Dispatch
-import _NIODataStructures
+import NIODataStructures
 import NIOCore
 import NIOConcurrencyHelpers
 

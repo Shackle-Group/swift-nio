@@ -15,7 +15,7 @@
 import Dispatch
 import NIOCore
 import NIOConcurrencyHelpers
-import _NIODataStructures
+import NIODataStructures
 import Atomics
 
 /// Execute the given closure and ensure we release all auto pools if needed.
